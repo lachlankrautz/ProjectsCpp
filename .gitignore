@@ -39,3 +39,8 @@ nosetests.xml
 *.komodoproject
 
 .DS_Store
+Thumbs.db
+
+# Jetbrains
+.idea
+*.iml
