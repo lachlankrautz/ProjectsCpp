@@ -12,7 +12,7 @@ double getPiToDigit(int digit);
 
 int main()
 {
-    int decimals = 5;
+    int decimals = 12;
     cout << "..::Pi Calculator::.." << endl;
     printSavedPi(decimals);
     printPi(decimals);
