@@ -24,7 +24,7 @@ int main()
 int getDecimals()
 {
     int x = 0;
-    bool loop=true;
+    bool loop = true;
     while(loop)
     {
         std::cout << "How many decimals? ";
