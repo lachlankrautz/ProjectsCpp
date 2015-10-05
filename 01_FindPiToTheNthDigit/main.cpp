@@ -1,7 +1,7 @@
 #include <iostream>
 #include <sstream>
-#include <c++/iomanip>
-#include <c++/limits>
+#include <iomanip>
+#include <limits>
 
 using namespace std;
 
